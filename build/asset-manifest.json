@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.358fe682.css",
+    "main.js": "/static/js/main.40271635.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/art3.png": "/static/media/art3.385b483d07d768febdc7.png",
+    "static/media/art8.png": "/static/media/art8.1319f879dd082c6b55aa.png",
+    "static/media/art2.png": "/static/media/art2.0df38886daeb5c1637f3.png",
+    "static/media/art7.png": "/static/media/art7.86a6c5584b4b20f923cc.png",
+    "static/media/art1.png": "/static/media/art1.b2fdfb10da7d2d99af77.png",
+    "static/media/paytonpfp.png": "/static/media/paytonpfp.b3c39e0b15339db7ff0d.png",
+    "static/media/art10.jfif": "/static/media/art10.1451c34194b0e76e1e3f.jfif",
+    "static/media/art6.jfif": "/static/media/art6.6bd4dff713f879aeec98.jfif",
+    "static/media/art5.jfif": "/static/media/art5.d17ef76defece54c84b2.jfif",
+    "static/media/art4.jpg": "/static/media/art4.0cb54d3985d683861c22.jpg",
+    "static/media/Me_and_Kitties.png": "/static/media/Me_and_Kitties.ae942eea5db3a775cc92.png",
+    "static/media/art9.jpg": "/static/media/art9.0420dfcbcc6b39670c07.jpg",
+    "static/media/chalkboard.jpg": "/static/media/chalkboard.ece11d104b7a0c48ba21.jpg",
+    "static/media/react.png": "/static/media/react.46a88dcc876626d6d7a1.png",
+    "static/media/calc_ex.png": "/static/media/calc_ex.021dbb5aba68426dc709.png",
+    "static/media/java-script.png": "/static/media/java-script.4a202b473606fb0e7194.png",
+    "static/media/html5.png": "/static/media/html5.8ac35a5804441fb68bdb.png",
+    "static/media/css3.png": "/static/media/css3.ea9a558c098e776e6d4d.png",
+    "index.html": "/index.html",
+    "main.358fe682.css.map": "/static/css/main.358fe682.css.map",
+    "main.40271635.js.map": "/static/js/main.40271635.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.358fe682.css",
+    "static/js/main.40271635.js"
+  ]
+}
