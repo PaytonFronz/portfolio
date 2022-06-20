@@ -20,11 +20,11 @@ const BioSection = () => {
                 <div>
 
                 <p className='text-light'>
-                 Hello again! Thanks for scrolling this far! I am a recent graduate of Coding Dojo, a 14 week intensive coding bootcamp! I was trained in 3 full-stacks, but I specialize in front-end development!
+                 Hello again! Thanks for scrolling this far! I am a recent graduate of Coding Dojo, a 14 week intensive coding bootcamp! I'm trained in 3 full-stacks, but I specialize in front-end development!
                 </p>
                 <br/>
                 <p className='text-light'>
-                 When I'm not coding or creating artwork, I'm usually practicing fencing, playing with my two cats, Puff and Midnight, or immersing into video games! My favorite genre being RPGs.
+                 When I'm not coding or creating artwork, I'm usually practicing fencing, playing with my two cats, Puff and Midnight, or immersing myself into video games! My favorite genre being RPGs.
                 </p>
 
                 </div>
