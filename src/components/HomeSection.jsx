@@ -65,7 +65,7 @@ const HomeSection = () => {
 
         <div>
 
-          <img className="logo1" src={require("../img/Me_and_Kitties.png")} alt="An illustration of Payton Fronczak and her Kitties." />
+          <img className="logo1" src={require("../img/me_and_kitties_sketchy.png")} alt="An illustration of Payton Fronczak and her Kitties." />
 
         </div>
       </div>
