@@ -86,10 +86,29 @@
       }
 
       .calc_example{
+        padding: 6px;
+        width: 50%;
+        border-radius: 15%;
+      }
+
+      .iroh_example{
+        padding: 8px;
         width: 50%;
         border-radius: 20%;
       }
-    
+
+      .calcBtns{
+        margin: 15px;
+      }
+
+      .irohBtns{
+        margin: 15px;
+      }
+
+      button.btn.btn-light{
+        float: inline;
+      }
+      
       .footer{
         color: whitesmoke;
         background-color: palevioletred;
