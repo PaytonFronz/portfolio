@@ -17,15 +17,24 @@ const DevSection = () => {
       <div className='projects'>
         <h2 className='text-light projects'>Projects</h2>
 
-        <div className='calcApp'>
+
+        <div id="projectsWrapper">
+          <img className='iroh_example' src={require("../img/teaWithIroh.png")} />
+
           <img className='calc_example' src={require("../img/calc_ex.png")} />
         </div>
 
-        <div id='calc-project'>
-          <a href='https://paytonfronz.github.io/Calculator/'> <button style={{ textDecoration: 'none' }} class="btn btn-light" href='https://paytonfronz.github.io/Calculator/'>Live</button></a>
-        
-          <a href='https://github.com/PaytonFronz/Calculator'><button style={{ textDecoration: 'none' }} class="btn btn-light">Github</button></a>
-        </div>
+          <div className='irohBtns'>
+            <a href='https://havingteawithiroh.netlify.app/'> <button style={{ textDecoration: 'none' }} class="btn btn-light" href='https://havingteawithiroh.netlify.app/'>Live</button></a>
+
+            <a href='https://github.com/PaytonFronz/Have_Tea_with_Iroh'><button style={{ textDecoration: 'none' }} class="btn btn-light">Github</button></a>
+          </div>
+
+          <div className='calcBtns'>
+            <a href='https://paytonfronz.github.io/Calculator/'> <button style={{ textDecoration: 'none' }} class="btn btn-light" href='https://paytonfronz.github.io/Calculator/'>Live</button></a>
+
+            <a href='https://github.com/PaytonFronz/Calculator'><button style={{ textDecoration: 'none' }} class="btn btn-light">Github</button></a>
+          </div>
       </div>
     </div>
   )
