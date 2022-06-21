@@ -151,7 +151,7 @@
   
   img.logo1{
     padding-top: 25px;
-    border-radius: 50%;
+    border-radius: 70%;
     width: 600px;
   }
   
@@ -180,9 +180,18 @@
 
 .calc_example{
   width: 20%;
+  border-radius: 15%;
+  padding-bottom: 20px;
+  padding-left: 15px;
+}
+
+.iroh_example{
+  width: 20%;
   border-radius: 25%;
   padding-bottom: 20px;
+  padding-right: 15px;
 }
+
 
 h2.text-light.projects{
   padding-top: 35px;
@@ -194,20 +203,48 @@ h2.text-light.toolkit{
 }
 
 
-.btn.btn-light{
-  background-color: transparent;
-  color: palevioletred;
-  margin-left: 15px;
+.irohBtns{
+  display: inline;
 }
 
-.btn.btn-light:hover{
+.calcBtns{
+  display: inline;
+  margin-top: 1px;
+  margin-left: 70px;
+  margin-right: 50px;
+}
+
+.irohBtns{
+  display: inline;
+  margin-top: 1px;;
+  margin-left: 50px;
+  margin-right: 70px;
+}
+
+.btn.btn-light{
+  text-decoration: none;
   background-color: transparent;
   color: palevioletred;
-  opacity: 0.3;
+  margin: 5px;
+}
+
+
+.calcBtns.btn.btn-light:hover{
+  background-color: transparent;
+  color: palevioletred;
+}
+
+.irohBtns.btn.btn-light:hover{
+  background-color: transparent;
+  color: palevioletred;
 }
 
 .toolkit{
   justify-items: space-between;
+}
+
+a{
+  color: none;
 }
 
 .html5{
